@@ -1,0 +1,4 @@
+#n
+/writable/{
+p
+}
